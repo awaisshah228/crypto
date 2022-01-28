@@ -26,8 +26,8 @@ const Card = () => {
         <img src="/images/ezgif 2.png" alt="ezgif 2.png" />
       </div>
       <div className="flex flex-col   w-full">
-      <h2>Danzel Washington</h2>
-      <h1>Nike Air Jordon 1OG</h1>
+      <h2 className="text-slate-400">Danzel Washington</h2>
+      <h1 className="font-bold">Nike Air Jordon 1OG</h1>
 
       </div>
       <div className="flex justify-between w-full">
